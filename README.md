@@ -1,4 +1,4 @@
-# LibEngProject
+# EngLibProject
 ## 1 core:  3/5/2021
 ### class:
 1. **pool** (2mem) : att: PriorQueue<Vocab> = vocab; num_vocab, (enum) CompleteState{DONE, FAILED}
